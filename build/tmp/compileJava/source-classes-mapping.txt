@@ -1,2 +1,0 @@
-javaexamples/Example.java
- javaexamples.Example
